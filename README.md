@@ -4,6 +4,8 @@
 
 ### Last update: 30 Nov
 
+### Newest blog post: https://github.com/korbelz/korbelz.github.io/blob/main/Nov23.md
+
 
 
 # Road to Warlords IV: Core Dev blog
