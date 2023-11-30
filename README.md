@@ -1,3 +1,11 @@
+# DASHBOARD
+
+### Current Phase: Crawl
+
+### Last update: 30 Nov
+
+
+
 # Road to Warlords IV: Core Dev blog
 
 This will be a place to collect/post information about progress towards Warlords IV: Core for Arma 4. 
