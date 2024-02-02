@@ -1,4 +1,4 @@
-# November Blog post
+# January Blog post
 
 I published my first Arma: Reforger mod! <--step one for learning to work with enfusion engine :)
 
