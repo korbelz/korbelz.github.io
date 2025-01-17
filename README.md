@@ -2,7 +2,7 @@
 
 ### Current Phase: Crawl
 
-### Last update: Nov 23
+### Last update: Jan 24
 
 ### Newest blog post: https://github.com/korbelz/korbelz.github.io/blob/main/Jan24.md
 
